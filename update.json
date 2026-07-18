@@ -1,6 +1,6 @@
 {
-  "versionCode": 110,
-  "versionName": "1.1",
-  "url": "https://raw.githubusercontent.com/daniellos525/RadioDroid-daniellos525/main/RadioDroid-v1.1.apk",
-  "changelog": "Pierwsza stabilna wersja Forka Daniellos525:\n- Naprawiono błąd zamykania się aplikacji przy przewijaniu.\n- Dodano inteligentną nawigację kontekstową.\n- Wprowadzono zaawansowane nagrywanie w stylu RadioSure (numerowanie plików, subfoldery stacji).\n- Dodano pełne wsparcie dla pilota TV (podświetlenie kursorów).\n- Wdrożono system automatycznych aktualizacji."
+  "versionCode": 111,
+  "versionName": "1.1.2",
+  "url": "https://github.com/daniellos525/RadioDroid-daniellos525/raw/main/RadioDroid-v1.1.2.apk",
+  "changelog": "Poprawka UI (odtwarzacz nie jest już przezroczysty)."
 }
